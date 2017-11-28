@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.row p {
+  display: none;
+}
+
+.col-md-3 {
+  border: 2px solid black;
+}
